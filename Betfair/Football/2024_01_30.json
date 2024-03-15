@@ -1,0 +1,1415 @@
+[
+    {
+        "competition": "Premier League",
+        "home": "Nottingham Forest",
+        "away": "Arsenal",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premier League",
+        "home": "Fulham",
+        "away": "Everton",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Luton Town",
+        "away": "Brighton",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Crystal Palace",
+        "away": "Sheffield United",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premier League",
+        "home": "Aston Villa",
+        "away": "Newcastle United",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "DFB Cup: Quarter-Finals",
+        "home": "St. Pauli",
+        "away": "Fortuna Dusseldorf",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Round of 16",
+        "home": "Mali",
+        "away": "Burkina Faso",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Round of 16",
+        "home": "Morocco",
+        "away": "South Africa",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Round of 16",
+        "home": "Uzbekistan",
+        "away": "Thailand",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Round of 16",
+        "home": "Saudi Arabia",
+        "away": "South Korea",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Championship",
+        "home": "Coventry City",
+        "away": "Bristol City",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Championship",
+        "home": "Leicester City",
+        "away": "Swansea City",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "League 1",
+        "home": "Oxford United",
+        "away": "Portsmouth",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "League 2",
+        "home": "Sutton United",
+        "away": "Harrogate",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "National League",
+        "home": "Solihull Moors",
+        "away": "Dagenham &amp; Redbridge",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "National League",
+        "home": "Wealdstone",
+        "away": "Aldershot Town",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Belgian Pro League",
+        "home": "Club Brugge",
+        "away": "Kortrijk",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Belgian Pro League",
+        "home": "Westerlo",
+        "away": "Cercle Brugge",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premiership",
+        "home": "Aberdeen",
+        "away": "Dundee FC",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premiership",
+        "home": "Livingston",
+        "away": "Ross County",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Scottish Cup: Round 4",
+        "home": "Brora Rangers",
+        "away": "Cove Rangers",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Group C",
+        "home": "Ajax Women",
+        "away": "Roma Women",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Group C",
+        "home": "Bayern Munich Women",
+        "away": "Paris Saint Germain Women",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Group D",
+        "home": "Paris FC Women",
+        "away": "Chelsea Women",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "Group D",
+        "home": "Real Madrid Women",
+        "away": "BK Haecken Women",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Super League",
+        "home": "Winterthur",
+        "away": "Basel",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Super League",
+        "home": "Young Boys",
+        "away": "Yverdon",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Cup",
+        "home": "Niki Volou",
+        "away": "Aris",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premier League",
+        "home": "FC Ashdod",
+        "away": "Maccabi Bnei Reineh",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Maccabi Netanya",
+        "away": "Bnei Sakhnin",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League",
+        "home": "Beitar Jerusalem",
+        "away": "Hapoel Petah Tikva",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FC Obolon Kyiv",
+        "away": "Zemplin Michalovce",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Ho Chi Minh City FC",
+        "away": "BA Ria Vung Tau FC",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "ACS Champions FC Arges",
+        "away": "ACS Muscelul Campulung",
+        "homeScore": "6",
+        "HomeScoreInt": 6,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Raufoss",
+        "away": "Hamarkameratene",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "NK Bravo",
+        "away": "Rukh Lviv",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "HNK Gorica",
+        "away": "NK Maksimir Zagreb",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Randers FC",
+        "away": "Vendsyssel FF",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Chernomorets Novorossiysk",
+        "away": "KF Besa Doberdoll",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FC Midtjylland",
+        "away": "Fredericia",
+        "homeScore": "7",
+        "HomeScoreInt": 7,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "PFC CSKA-Sofia",
+        "away": "Trencin",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Veres Rivne",
+        "away": "Zlate Moravce",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "OFK Beograd",
+        "away": "FK Metalac",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Cherkasy",
+        "away": "Slovacko",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FC Academy Pandev",
+        "away": "Ruch Chorzow",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Fremad Amager",
+        "away": "Hilleroed",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Sturm Graz",
+        "away": "Rukh Lviv",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Vancouver Whitecaps",
+        "away": "FK Haugesund",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "NK Istra 1961",
+        "away": "Kolubara",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Arka Gdynia",
+        "away": "Vorskla",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Cherno More Varna",
+        "away": "SC Dnipro-1",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Dynamo Kyiv",
+        "away": "Pakhtakor Tashkent",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Levski Sofia",
+        "away": "Banik Ostrava",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Teplice",
+        "away": "Ludogorets Razgrad",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Zrinski Jurjevac",
+        "away": "FK Prva Iskra Jonoon",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Sibenik",
+        "away": "SK Austria Klagenfurt",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Halmstads BK",
+        "away": "Utsiktens BK",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Kremser SC",
+        "away": "SV Horn",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "5",
+        "awayScoreInt": 5
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "ASK Klagenfurt",
+        "away": "SK Austria Klagenfurt II",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Bad Gleichenberg",
+        "away": "FC Union RB Weinland Gamlitz",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FA 2000",
+        "away": "Ishoej IF",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FCM Traiskirchen",
+        "away": "SV Gloggnitz",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "First Vienna FC",
+        "away": "Favoritner AC",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "SC Furstenfeld",
+        "away": "ASK Voitsberg",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "SC Wiener Viktoria",
+        "away": "SV Langenrohr",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "SR Donaufeld",
+        "away": "Gerasdorf Stammersdorf",
+        "homeScore": "8",
+        "HomeScoreInt": 8,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "Kalsdorf",
+        "away": "FC Grossklein",
+        "homeScore": "6",
+        "HomeScoreInt": 6,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "FC Astoria Walldorf",
+        "away": "TB Jahn Zeiskam",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "SK Slovan HAC",
+        "away": "SV Leobendorf",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "Club Friendlies 2024",
+        "home": "TSG Balingen",
+        "away": "Reutlingen",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Ligue 1",
+        "home": "CR Belouizdad",
+        "away": "MC Oran",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Copa de la Liga Profesional",
+        "home": "Instituto Cordoba",
+        "away": "Atletico Tucuman",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Copa de la Liga Profesional",
+        "home": "CA Huracan",
+        "away": "Talleres",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Copa de la Liga Profesional",
+        "home": "Gimnasia LP",
+        "away": "Independiente Rivadavia",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Copa de la Liga Profesional",
+        "home": "Rosario Central",
+        "away": "Banfield",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Atlantic Cup: Finals",
+        "home": "Fredrikstad",
+        "away": "Elfsborg",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Cup",
+        "home": "Sabail",
+        "away": "Zira",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Cup",
+        "home": "Sabah FK",
+        "away": "Qarabag FK",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "7",
+        "awayScoreInt": 7
+    },
+    {
+        "competition": "Paulista A1",
+        "home": "Corinthians",
+        "away": "Sao Paulo",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Amazonense: 1st Stage",
+        "home": "Rio Negro AM",
+        "away": "Unidos Do Alvorada AM",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Capixaba",
+        "home": "Nova Venecia",
+        "away": "Serra",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Capixaba",
+        "home": "Jaguare ES",
+        "away": "Rio Branco ES",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Carioca Taca Guanabara",
+        "home": "Audax Rio EC",
+        "away": "Boavista",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Mineiro",
+        "home": "Uberlandia",
+        "away": "Patrocinense",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Paranaense",
+        "home": "Andraus",
+        "away": "Sao Joseense",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Pernambucano",
+        "home": "Sport Recife",
+        "away": "Afogados da Ingazeira",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Piauiense: 1st Stage: Group A",
+        "home": "Picos",
+        "away": "River AC",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Tocantinense",
+        "home": "Araguaina TO",
+        "away": "Capital FC TO",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Primera A: Apertura",
+        "home": "Patriotas",
+        "away": "Aguilas Doradas Rionegro",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Liga de Ascenso: Clausura: Group A",
+        "home": "Marineros PFC",
+        "away": "Antioquia",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "EFL Trophy: Knockout Stage",
+        "home": "Blackpool",
+        "away": "Bolton Wanderers",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "EFL Trophy: Knockout Stage",
+        "home": "Bradford City",
+        "away": "Doncaster Rovers",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "EFL Trophy: Knockout Stage",
+        "home": "Peterborough United",
+        "away": "AFC Wimbledon",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "National League: North",
+        "home": "Banbury United",
+        "away": "Darlington",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "National League: North",
+        "home": "Chorley",
+        "away": "Alfreton Town",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "National League: North",
+        "home": "Hereford",
+        "away": "South Shields",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "National League: North",
+        "home": "Scunthorpe United",
+        "away": "Tamworth",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "National League: South",
+        "home": "Welling United",
+        "away": "Hampton &amp; Richmond",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "National League: South",
+        "home": "Yeovil Town",
+        "away": "Slough Town",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Northern Premier League",
+        "home": "FC United of Manchester",
+        "away": "Marine",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Southern League Premier: Central",
+        "home": "Alvechurch",
+        "away": "Royston Town",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Southern League Premier: Central",
+        "home": "Kettering Town",
+        "away": "Bromsgrove Sporting",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Southern League Premier: Central",
+        "home": "Leiston",
+        "away": "Long Eaton United",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Southern League Premier: South",
+        "home": "Hayes &amp; Yeading United",
+        "away": "Bracknell Town",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Southern League Premier: South",
+        "home": "Hendon",
+        "away": "AFC Totton",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Southern League Premier: South",
+        "home": "Plymouth Parkway",
+        "away": "Beaconsfield Town",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Southern League Premier: South",
+        "home": "Poole Town",
+        "away": "Salisbury",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "5",
+        "awayScoreInt": 5
+    },
+    {
+        "competition": "Southern League Premier: South",
+        "home": "Winchester City",
+        "away": "Tiverton",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Chatham Town",
+        "away": "Hashtag United",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Cheshunt",
+        "away": "Potters Bar Town",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Concord Rangers",
+        "away": "Haringey Borough",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Dulwich Hamlet",
+        "away": "Wingate &amp; Finchley",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Enfield Town",
+        "away": "Billericay",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Folkestone Invicta",
+        "away": "Hornchurch",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Hastings United",
+        "away": "Margate",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Isthmian League Premier Division",
+        "home": "Lewes",
+        "away": "Carshalton Athletic",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Premier League Cup: Group E",
+        "home": "Tottenham Hotspur U21",
+        "away": "Bristol City U21",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League U18",
+        "home": "Manchester United U18",
+        "away": "Liverpool U18",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Professional Development League",
+        "home": "Bournemouth U21",
+        "away": "Millwall U21",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Professional Development League",
+        "home": "Charlton Athletic U21",
+        "away": "Swansea City U21",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Professional Development League",
+        "home": "Cardiff City U21",
+        "away": "Queens Park Rangers U21",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Professional Development League",
+        "home": "Hull City U21",
+        "away": "Wigan Athletic U21",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "Regionalliga Nord",
+        "home": "St.Pauli II",
+        "away": "Eimsbutteler TV",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Cup",
+        "home": "Glacis United",
+        "away": "FC Hound Dogs",
+        "homeScore": "9",
+        "HomeScoreInt": 9,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Liga 1",
+        "home": "Persebaya Surabaya",
+        "away": "PSIS Semarang",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Liga 1",
+        "home": "Persis Solo",
+        "away": "Madura United",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Liga Alef: North",
+        "home": "Hapoel Migdal Haemeq",
+        "away": "Maccabi Ahi Nazareth",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Liga Alef: North",
+        "home": "Baqa Al-Gharbiyye",
+        "away": "Hapoel Raanana",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Liga Alef: South",
+        "home": "SC Hapoel Lod",
+        "away": "Maccabi Ironi Ashdod",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Arnett Gardens",
+        "away": "Harbour View",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League: Group B",
+        "home": "Asaria",
+        "away": "Abu Salim",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League: Group B",
+        "home": "Al-Madina",
+        "away": "Olympic Azzaweya SC",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Liga Premier: Serie A: Group 2",
+        "home": "Inter Playa del Carmen",
+        "away": "Pioneros de Cancun",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Liga MX U23: Clausura",
+        "home": "Chivas Guadalajara U23",
+        "away": "Toluca U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Liga MX U23: Clausura",
+        "home": "Cruz Azul U23",
+        "away": "Tijuana U23",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Liga MX U23: Clausura",
+        "home": "Mazatlan FC U23",
+        "away": "Leon U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Liga MX U23: Clausura",
+        "home": "Club Santos Laguna U23",
+        "away": "Puebla U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "NPFL",
+        "home": "Rivers United FC",
+        "away": "Enyimba",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "CONMEBOL Pre-Olympic Tournament: Group A",
+        "home": "Colombia U23",
+        "away": "Venezuela U23",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "CONMEBOL Pre-Olympic Tournament: Group B",
+        "home": "Uruguay U23",
+        "away": "Peru U23",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Division Profesional: Apertura",
+        "home": "Cerro Porteno",
+        "away": "2 de Mayo",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Liga Portugal 2",
+        "home": "Academico Viseu",
+        "away": "Tondela",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "U23 Liga Revelacao: Championship Round",
+        "home": "Sporting CP U23",
+        "away": "Benfica U23",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "U23 Liga Revelacao: Championship Round",
+        "home": "Famalicao U23",
+        "away": "Torreense U23",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "U23 Liga Revelacao: Championship Round",
+        "home": "Vizela U23",
+        "away": "Estrela da Amadora U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "U23 Liga Revelacao: Championship Round",
+        "home": "Estoril Praia U23",
+        "away": "Gil Vicente U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "U23 Liga Revelacao: Qualifying Round",
+        "home": "Mafra U23",
+        "away": "Leixoes SC U23",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "1st Division",
+        "home": "Al Bukayriyah",
+        "away": "Al Ain",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "1st Division",
+        "home": "Al Jabalain",
+        "away": "Al Qaisumah",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "League 2",
+        "home": "East Fife",
+        "away": "Spartans",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "League 2",
+        "home": "Elgin City",
+        "away": "Clyde",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Reserve League",
+        "home": "Hibernian FC Reserves",
+        "away": "Airdrieonians U21",
+        "homeScore": "5",
+        "HomeScoreInt": 5,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Reserve League",
+        "home": "Queen of the South Reserves",
+        "away": "Ayr United Reserves",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Reserve League",
+        "home": "Queens Park Reserves",
+        "away": "Dunfermline Athletic Reserves",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "ASC Linguere",
+        "away": "Diaraf",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Challenge League",
+        "home": "FC Wil 1900",
+        "away": "Schaffhausen",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Challenge League",
+        "home": "Baden",
+        "away": "Aarau",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    }
+]

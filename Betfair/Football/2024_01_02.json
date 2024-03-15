@@ -1,0 +1,434 @@
+[
+    {
+        "competition": "Premier League",
+        "home": "West Ham United",
+        "away": "Brighton",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "LaLiga",
+        "home": "Getafe",
+        "away": "Rayo Vallecano",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "LaLiga",
+        "home": "Real Sociedad",
+        "away": "Deportivo Alaves",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "LaLiga",
+        "home": "Valencia",
+        "away": "Villarreal",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Coppa Italia: Round of 16",
+        "home": "AC Milan",
+        "away": "Cagliari",
+        "homeScore": "4",
+        "HomeScoreInt": 4,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Friendlies 2024",
+        "home": "Indonesia",
+        "away": "Libya",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "Premiership",
+        "home": "Hibernian",
+        "away": "Motherwell",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premiership",
+        "home": "Livingston",
+        "away": "Hearts",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premiership",
+        "home": "Rangers",
+        "away": "Kilmarnock",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premiership",
+        "home": "Ross County",
+        "away": "Aberdeen",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Premiership",
+        "home": "St. Mirren",
+        "away": "Celtic",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Premier League",
+        "home": "Maccabi Bnei Reineh",
+        "away": "Maccabi Netanya",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Premier League",
+        "home": "Hapoel Hadera",
+        "away": "Hapoel Beer Sheva",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Championship",
+        "home": "Airdrieonians",
+        "away": "Inverness CT",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Championship",
+        "home": "Arbroath",
+        "away": "Dundee United",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Championship",
+        "home": "Dunfermline Athletic",
+        "away": "Raith Rovers",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Championship",
+        "home": "Greenock Morton",
+        "away": "Ayr United",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Championship",
+        "home": "Partick Thistle",
+        "away": "Queen's Park",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Sao Paulo Youth Cup: Group 2",
+        "home": "Cantanduva U20",
+        "away": "Portuguesa RJ U20",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Sao Paulo Youth Cup: Group 2",
+        "home": "Atletico PR U20",
+        "away": "Sparta TO",
+        "homeScore": "9",
+        "HomeScoreInt": 9,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Sao Paulo Youth Cup: Group 5",
+        "home": "Francana U20",
+        "away": "Rio Claro U20",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Sao Paulo Youth Cup: Group 8",
+        "home": "Ceara U20",
+        "away": "Rondoniense SC U20",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Sao Paulo Youth Cup: Group 8",
+        "home": "EC Lemense U20",
+        "away": "SE Do Gama DF U20",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "1st Division",
+        "home": "Apollon Limassol",
+        "away": "APOEL Nicosia",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "1st Division",
+        "home": "Anorthosis",
+        "away": "Karmiotissa Pano Polemidion",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "1st Division",
+        "home": "Omonia Nicosia",
+        "away": "AEL Limassol",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "2. Division A",
+        "home": "Dekernes",
+        "away": "Nogoom FC",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "2. Division A",
+        "home": "Haras El Hodood",
+        "away": "Proxy",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "2. Division A",
+        "home": "Itesalat",
+        "away": "El Sekka El Hadid",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "4",
+        "awayScoreInt": 4
+    },
+    {
+        "competition": "2. Division A",
+        "home": "Olympic El Qanah FC",
+        "away": "Ghazl Kafr EL Dawar",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Al-Arabi",
+        "away": "Al-Qadsia",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Premier League: Group B",
+        "home": "Al Malaab El Libby",
+        "away": "Al-Madina",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premiership",
+        "home": "Crusaders",
+        "away": "Linfield",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Stars League Cup: Knockout Stage",
+        "home": "Umm Salal",
+        "away": "Al-Ahli",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Stars League Cup: Knockout Stage",
+        "home": "Qatar SC",
+        "away": "Al-Arabi",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "1st Division",
+        "home": "Al Qaisumah",
+        "away": "Al-Taraji Club",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "1st Division",
+        "home": "Al Arabi",
+        "away": "Al Batin",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "1st Division",
+        "home": "Ohod",
+        "away": "Al Adalh",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Primera Division RFEF: Group 1",
+        "home": "Lugo",
+        "away": "Celta Vigo B",
+        "homeScore": "0",
+        "HomeScoreInt": 0,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Primera Division RFEF: Group 2",
+        "home": "Algeciras",
+        "away": "Recreativo Huelva",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "3",
+        "awayScoreInt": 3
+    },
+    {
+        "competition": "Primera Division RFEF: Group 2",
+        "home": "CF Intercity",
+        "away": "Malaga",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Primera Division RFEF: Group 2",
+        "home": "Real Murcia",
+        "away": "Atletico Madrid B",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League",
+        "home": "Bright Stars FC",
+        "away": "Maroons FC",
+        "homeScore": "1",
+        "HomeScoreInt": 1,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "Busoga United FC",
+        "away": "Kitara FC",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League",
+        "home": "Mbarara City",
+        "away": "Wakiso Giants",
+        "homeScore": "2",
+        "HomeScoreInt": 2,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    },
+    {
+        "competition": "Premier League",
+        "home": "SC Villa",
+        "away": "UPDF FC",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "0",
+        "awayScoreInt": 0
+    },
+    {
+        "competition": "Premier League",
+        "home": "KCCA FC",
+        "away": "URA FC",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "2",
+        "awayScoreInt": 2
+    },
+    {
+        "competition": "Cymru South",
+        "home": "Abergavenny Town FC",
+        "away": "Abertillery Bluebirds",
+        "homeScore": "3",
+        "HomeScoreInt": 3,
+        "awayScore": "1",
+        "awayScoreInt": 1
+    }
+]
